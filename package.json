@@ -10,8 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "lite": "ng lite-server",
-    "gulp" : "gulp",
-    "gulp-watch" : "gulp watch"
+    "gulp": "gulp",
+    "gulp-watch": "gulp watch"
   },
   "private": true,
   "dependencies": {
@@ -37,6 +37,7 @@
     "@types/node": "~6.0.60",
     "codelyzer": "~3.1.1",
     "concurrently": "^3.5.0",
+    "gulp-sass": "^3.1.0",
     "jasmine-core": "~2.6.2",
     "jasmine-spec-reporter": "~4.1.0",
     "karma": "~1.7.0",
